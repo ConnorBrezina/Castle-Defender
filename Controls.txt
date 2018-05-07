@@ -1,0 +1,6 @@
+Mouse Buttons to aim and shoot (the longer you hold the arrow the farther it will shoot)
+
+wasd - to move
+
+B - Rain of arrows (not fully implemented)
+
